@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const confirmarBtn = document.getElementById('confirmar-btn');
     let opcionSeleccionada = null;
 
-    // 1. Manejo de la selección de botones (CSS y funcionalidad)
+    // 1. Manejo de la selección de botones
     opciones.forEach(btn => {
         btn.addEventListener('click', function() {
             // Quita la clase 'seleccionado' de todos los botones
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // 3. Lógica Responsiva de JavaScript (opcional)
+    // 3. Lógica Responsiva de JavaScript (opcional, el CSS es principal)
     function verificarResponsividad() {
         // La lógica principal está en CSS, pero puedes agregar aquí funcionalidades JS si fuera necesario.
     }
