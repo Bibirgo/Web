@@ -212,7 +212,7 @@ body {
         
         linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
         /* La imagen real de la lavandería */
-        url('iconos/Fondo.jpg'); 
+        url('iconos/fondo.jpg'); 
         
     /* 2. Propiedades de ajuste */
     background-size: cover; 
@@ -829,5 +829,6 @@ body {
 
 
 /*Estilo para opciones de entrega*/
+
 
 
