@@ -61,7 +61,7 @@ header p {
 /* Borde amarillo al seleccionar */
 .opcion-btn.seleccionado {
     border: 3px solid #f4d03f;
-    padding: 22px 27px; /* Compensar el borde */
+    padding: 22px 27px;
 }
 
 /* Contenedor de la Imagen */
